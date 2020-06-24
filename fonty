@@ -1,6 +1,6 @@
 @font-face{
-font-family: YOUR FONT NAME;
+font-family: dwarf;
 font-style: normal;
 font-weight: 400;
-src: url(YOUR RAW.GITHACK URL) ;
+src: url(https://rawcdn.githack.com/idareeve/real-dwarf/eadbb7d1528839318b4285356e9ba3ea272fa8eb/fonty) ;
 }
